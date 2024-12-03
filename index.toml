@@ -532,3 +532,31 @@ metafile = true
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/GrowthMarkers.zip"
+hash = "f97e56b281a8bf5dc9a25cbe6d6d04a88b92fa9ff7390b1667c3d049c5beb6d7"
+
+[[files]]
+file = "resourcepacks/NoCaveSounds.zip"
+hash = "081a7d8c010b23ff2572b180b4234f1e3070606345dd409a8cc4962fc64aa83e"
+
+[[files]]
+file = "resourcepacks/OreBorders.zip"
+hash = "f1002351447dabe2f88a164ad6324b0447186d4f32a8171275fbbb581d16c0e9"
+
+[[files]]
+file = "resourcepacks/PlankBackground.zip"
+hash = "3a6a24ae1d619cc3b1e3f9367fb714a828dd0dbac9ee34fdeef554e029e0a4b5"
+
+[[files]]
+file = "resourcepacks/SpawnIndicator.zip"
+hash = "650c2d5e5cddc0181aac764ecc7cc794b788c292c0db9aa7d566b3d6274e34cb"
+
+[[files]]
+file = "resourcepacks/SusBorders.zip"
+hash = "c5a1b757d336754b0fe2a9c449323bcad8c894f1f7c9ff9bcae195de3e68c44b"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "a2bd7ab89335f6381155384a3933204afc65292f5bae9fc06bfb7bb3cf12f317"
