@@ -46,6 +46,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
@@ -91,6 +96,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "412bf83ab416357dd1cbbe4dbaf3bc20411e62a643ae89e97442d349f78edcda"
 metafile = true
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
 metafile = true
 
 [[files]]
@@ -113,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
 metafile = true
 
 [[files]]
@@ -206,6 +226,11 @@ hash = "93eae4c1e9899ecd8472208d67138b7043340eccd83433dffdc0d44604f5d5c1"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -213,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "d9c6ff8c1a43172fd52a2b6a6be3f03bb8b739e950b45a39b27043d544b9dd16"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
@@ -331,6 +361,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/things.pw.toml"
+hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -338,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
@@ -363,4 +403,14 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
 metafile = true
