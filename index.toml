@@ -284,11 +284,6 @@ hash = "640fdd7ef8760f280c07de85f7ebef919de92bf139b645e59723449032a5cfce"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -401,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
