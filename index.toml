@@ -239,6 +239,11 @@ hash = "7829eb3d2bb0e05cc590404dcc35c8803d4f3985c711884fe304ff7900e85389"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "2e6e486766a67af1772874d16a715638e9e769c1d7353e8819e9d76342c81f01"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
@@ -521,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "e74c7b29a9776fa6d00a39ee71e18445c9b273570351a4b891a35b277feaca30"
 metafile = true
 
 [[files]]
