@@ -1,13 +1,16 @@
 name = "Cobble S3"
 author = "AmeMeida"
-version = "2.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "710cc5080b1612c8734cc6fb342a7f18facd66627b795eda561871cbd9ec0d31"
+hash = "74345c0547e5210ae683bc1de2c6e2dcc5489580247c2c5db1536e446fc36bf3"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks"

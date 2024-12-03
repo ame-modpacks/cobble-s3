@@ -1,9 +1,92 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "54d56e62cc589ed836efd59f5edb819b41bb94a4d824524ec4410173ea2d79c8"
-metafile = true
+file = "datapacks/VanillaTweaks_c273567_MC1.21-1.21.4.zip"
+hash = "0d7f029c46e0e86bb8623193f510227a740dd2a3b409337031c30d83ebb3fcb3"
+
+[[files]]
+file = "datapacks/afk display v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "f00957a45f8c741d514bc0ccfc6d324df3e7181ae6bde9d6ff7328008a23ca2d"
+
+[[files]]
+file = "datapacks/armor statues v2.8.12 (MC 1.20-1.20.6).zip"
+hash = "15983b7891c2c4117fad076743bb05b460c6c8407e3b78b438eb9a728431c7e0"
+
+[[files]]
+file = "datapacks/bat membranes v1.0.9 (MC 1.20-1.20.6).zip"
+hash = "db8d2ce49948ba542b7ff3435a6c2c9741ad9c513a4e9e4144807fd866086c40"
+
+[[files]]
+file = "datapacks/cauldron concrete v3.0.0 (MC 1.20-1.20.6).zip"
+hash = "19fa12aa309f1e50a08d441fb4e0c0204b500fcb0eab51233531e69ff599f575"
+
+[[files]]
+file = "datapacks/classic fishing loot v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "b7bd3f8f8d55d687390c983e06bc8023bf6298e345667f0790589c87be62c60f"
+
+[[files]]
+file = "datapacks/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
+hash = "3d051c91543d4cf46276531d1a5ed787bf40b5bb329ac7dedf7425b4fcb797ec"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip"
+hash = "9892d5df79761f9394ddacbdc2885e485f898fdfa8dbfebea4fb8726aa0a089d"
+
+[[files]]
+file = "datapacks/dragon drops v1.3.7 (MC 1.20-1.20.6).zip"
+hash = "d5800bd4130b4643ef82585780d437136053d138c1387ba93d3e423fc366ca0e"
+
+[[files]]
+file = "datapacks/fast leaf decay v2.0.10 (MC 1.20-1.20.6).zip"
+hash = "7ab5bea68e77c2f2e83a5f3889438fffe5c2645ee05647c471c7845d3ee49242"
+
+[[files]]
+file = "datapacks/kill empty boats v1.1.8 (MC 1.20-1.20.6).zip"
+hash = "8b646469389b0a7b75d4ba20b027d1c12360646ff3b3419485ff71ea17544d3c"
+
+[[files]]
+file = "datapacks/larger phantoms v1.2.8 (MC 1.20-1.20.6).zip"
+hash = "4b686653440712c5fa1e58e8cb876e3f55ab1bebccab4cfc3363b48abe77570a"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.7 (MC 1.20-1.20.6).zip"
+hash = "9178696ae9eaa1442b1ea8b125f89cd65fe73585024728f289beca6e5fd2bae8"
+
+[[files]]
+file = "datapacks/player head drops v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "56cc5036b555c5629ccfbd112323ea3c75453f951c322f762fb57b817557b3b6"
+
+[[files]]
+file = "datapacks/redstone rotation wrench v1.1.8 (MC 1.20-1.20.6).zip"
+hash = "d13741106bcc7cf145f3bd90c4e6c8035040223c09608669c7cd3869ad7b3f82"
+
+[[files]]
+file = "datapacks/silence mobs v1.2.2 (MC 1.20-1.20.6).zip"
+hash = "4914621f89e5259e452d108ea7bc27428d80ecd89e03b5441aa1210369e4cf35"
+
+[[files]]
+file = "datapacks/spectator conduit power v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "f45e9eae4e9954ea4b0e191cc7222b82519bbc775b8850826aee6ca07667d5d6"
+
+[[files]]
+file = "datapacks/spectator night vision v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "02400f1c3037077ba2f84bec5260c55b28afa3b5ed100e5a55e32913869939bb"
+
+[[files]]
+file = "datapacks/terracotta rotation wrench v1.1.8 (MC 1.20-1.20.6).zip"
+hash = "17565107d17c5253ce9cedfeaeffcced701d52e77bfe8e07cef3470e527a427e"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.3 (MC 1.20-1.20.6).zip"
+hash = "3437b77181ff05f077887b0adc895198e9c2b0e9756604c8e5635421c036a401"
+
+[[files]]
+file = "datapacks/track statistics v1.1.9 (MC 1.20-1.20.6).zip"
+hash = "ecfc1c25da71e0a9d259a77f42799e266050aa4da4aa83486cb87e99d5d7fae3"
+
+[[files]]
+file = "datapacks/villager workstation highlights v1.1.7 (MC 1.20-1.20.6).zip"
+hash = "7a10ecab0c3682a1fcbd7b9ec9150f8052a325c4c4c559d8407977714d9a89ce"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -128,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cf8fc65e09bf5baef6b6681de9c505d4ab8661f61f53603544a07ef5df12c20d"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "60172c258cc9297e51f7712ff68da42b3f690f59cfb243a4131437d3f75f9c3a"
 metafile = true
 
 [[files]]
@@ -276,6 +364,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "d2890336faf28e59c15902545b261bf39f020850e61174ba799169a5f67e9e52"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "4200aa5f5da6e8eee3eaf057da296b9d72a53b8b0fce66a19cb368d243bfde5d"
 metafile = true
@@ -288,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
