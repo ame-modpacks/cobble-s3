@@ -1,12 +1,12 @@
 name = "Cobble S3"
 author = "AmeMeida"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "91e35ad033d78e7d9e8bdea8fe381d128386c9f79583cbea8c4f1961ed1faa3e"
+hash = "0b01abfb2b17d54fbf302835ee2c2977bcf3ebdfb58956512523842f665793c6"
 
 [versions]
 fabric = "0.16.9"
