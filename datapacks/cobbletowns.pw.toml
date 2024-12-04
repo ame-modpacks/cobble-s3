@@ -1,0 +1,13 @@
+name = "CobbleTowns"
+filename = "CobbleTowns v1.0.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8XDLda7G/versions/SgRkBhgW/CobbleTowns%20v1.0.2.zip"
+hash-format = "sha1"
+hash = "8d0ad8e2aac8dab1d0ca172ca0a607c2e1c24db2"
+
+[update]
+[update.modrinth]
+mod-id = "8XDLda7G"
+version = "SgRkBhgW"

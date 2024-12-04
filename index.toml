@@ -25,6 +25,11 @@ file = "datapacks/classic fishing loot v1.1.7 (MC 1.20-1.20.6).zip"
 hash = "b7bd3f8f8d55d687390c983e06bc8023bf6298e345667f0790589c87be62c60f"
 
 [[files]]
+file = "datapacks/cobbletowns.pw.toml"
+hash = "878e9c9f57c46653a3da7c099022f65a542abebf93be8c030f27ae829b7bc32d"
+metafile = true
+
+[[files]]
 file = "datapacks/custom villager shops v1.2.7 (MC 1.20-1.20.6).zip"
 hash = "3d051c91543d4cf46276531d1a5ed787bf40b5bb329ac7dedf7425b4fcb797ec"
 
