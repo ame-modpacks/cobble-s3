@@ -314,6 +314,11 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0e9b4a996662c249debac700d6f50f3f5de3c70851f9c752814233cb14375730"
 metafile = true
@@ -474,6 +479,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest-unofficial.pw.toml"
+hash = "2d8013a02aa3fccf685bc0cc424e4666d67d29ce9bade885a98eac4d1979be0a"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
@@ -524,6 +534,11 @@ hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
 metafile = true
@@ -560,3 +575,8 @@ hash = "c5a1b757d336754b0fe2a9c449323bcad8c894f1f7c9ff9bcae195de3e68c44b"
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "a2bd7ab89335f6381155384a3933204afc65292f5bae9fc06bfb7bb3cf12f317"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "59da31b1a0add66422b1e86676db55efe0864c91abc6706203282f213062269a"
+metafile = true

@@ -1,0 +1,13 @@
+name = "The Twilight Forest Unofficial"
+filename = "twilightforest-fabric-1.20.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1XoXkBdT/versions/hdDHSbZ4/twilightforest-fabric-1.20.1-1.4.3.jar"
+hash-format = "sha1"
+hash = "67e98cb1885a5abd48960bc310ad0d0d2d7751f1"
+
+[update]
+[update.modrinth]
+mod-id = "1XoXkBdT"
+version = "hdDHSbZ4"
